@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: e9893cfeb01ff4d4c954af6cd54ee7f5
+timeCreated: 1524809430
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mrs. Monster Condensed
+  fontNames:
+  - Mrs. Monster Condensed
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

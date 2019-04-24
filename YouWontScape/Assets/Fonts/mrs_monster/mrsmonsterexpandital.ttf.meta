@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f57d875c7c3c393439d42e089de31235
+timeCreated: 1524809430
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mrs. Monster Expanded Italic
+  fontNames:
+  - Mrs. Monster Expanded Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: dcd2250f729250d41bd5f9c62c7f731d
+timeCreated: 1524809430
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mrs. Monster Condensed Italic
+  fontNames:
+  - Mrs. Monster Condensed Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

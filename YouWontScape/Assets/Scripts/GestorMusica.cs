@@ -1,0 +1,27 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.Audio;
+
+public class GestorMusica : MonoBehaviour {
+
+    public AudioMixer audioMixer;
+
+    // Use this for initialization
+    void Awake()
+    {
+        GameObject[] objs = GameObject.FindGameObjectsWithTag("Music");
+        if (objs.Length > 1)
+        {
+            Destroy(this.gameObject);
+        }
+        DontDestroyOnLoad(this.gameObject);
+        audioMixer.SetFloat("volumen", PlayerPrefs.GetFloat("MusicVolume"));
+
+    }
+
+    private void OnDestroy()
+    {
+        PlayerPrefs.Save();
+    }
+}

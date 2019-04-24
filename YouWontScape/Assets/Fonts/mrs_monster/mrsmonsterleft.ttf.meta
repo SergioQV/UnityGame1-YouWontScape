@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 420940c891c58644780448e0b1afd16c
+timeCreated: 1524809428
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mrs. Monster Leftalic
+  fontNames:
+  - Mrs. Monster Leftalic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 28afe2b198ad7904286326bc5d1a676e
+timeCreated: 1524809428
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mrs. Monster Rotated
+  fontNames:
+  - Mrs. Monster Rotated
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

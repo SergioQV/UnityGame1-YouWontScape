@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 884ec7c8aa8e9cb438c6ef1933441ff3
+timeCreated: 1524809429
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Mrs. Monster Rotalic
+  fontNames:
+  - Mrs. Monster Rotalic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

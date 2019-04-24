@@ -1,4 +1,4 @@
-# UnityGame1-YouWontScape
+# Unity Game 1 - You Won't Scape
 This is my own first project in Unity, made for a subject of the Computer Engine degree.
 
 In the game, the player must survive a hunt by shooting the monster, hiding (and being lucky of not be found), searching for new bullets and keep shooting the monster to death. 
